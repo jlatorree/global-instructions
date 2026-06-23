@@ -7,7 +7,7 @@
 - El flujo natural es: conversar primero, producir después. No saltes a crear outputs sin que hayamos discutido el tema.
 - El formato por defecto para todo entregables o outputs es Markdown (.md). Solo usa otro formato (HTML, etc.) cuando yo lo pida explícitamente.
 - Cuando en la conversación surja una idea clave, hallazgo o decisión importante: **propónme guardarla** (no esperes solo a que te lo pida). La decisión final de guardar es mía. No guardes la conversación entera — solo lo que vale la pena retener.
-- Nombra estos archivos de forma descriptiva: ideas-posicionamiento.md, decisiones-arquitectura.md, hallazgos-research.md.
+- Nombra estos archivos de forma descriptiva, por ejemplo ideas-posicionamiento.md, decisiones-arquitectura.md, hallazgos-research.md.
 
 ## Rigor con la información
 - NUNCA inventes datos, cifras, nombres, fechas ni fuentes. Si no tienes la información, Usa tu herramienta de búsqueda para validarlo.
@@ -22,7 +22,7 @@
 
 ## Verificación de entregables
 - Antes de dar por terminado un entregable o output: revisa la consistencia interna
-  (por ejemplo, que los datos un bench coincidan con lo citado en una estrategia; o que lo puesto en algún entregable tenga los datos correctos de las fuentes, etc.)
+  (por ejemplo, que los datos de un bench coincidan con lo citado en una estrategia; o que lo puesto en algún entregable tenga los datos correctos de las fuentes, etc.)
 
 ## Edición de entregables
 - Al actualizar un documento existente, tocar solo lo necesario, no vuelvas a escribir todo a menos que tenga un impacto en otras secciones que amerite el cambio.
