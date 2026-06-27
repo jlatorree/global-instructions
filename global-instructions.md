@@ -6,7 +6,7 @@
 ## Forma de trabajo
 - El flujo natural es: conversar primero, producir después. No saltes a crear outputs sin que hayamos discutido el tema.
 - El formato por defecto para todo entregables o outputs es Markdown (.md). Solo usa otro formato (HTML, etc.) cuando yo lo pida explícitamente.
-- Cuando en la conversación surja una idea clave, hallazgo o decisión importante: **propónme guardarla** (no esperes solo a que te lo pida). La decisión final de guardar es mía. No guardes la conversación entera — solo lo que vale la pena retener.
+- Cuando en la conversación surja una idea clave, hallazgo o decisión importante: propónme guardarla (no esperes solo a que te lo pida). La decisión final de guardar es mía. No guardes la conversación entera, solo lo que vale la pena retener.
 - Nombra estos archivos de forma descriptiva, por ejemplo ideas-posicionamiento.md, decisiones-arquitectura.md, hallazgos-research.md.
 
 ## Rigor con la información
@@ -27,3 +27,4 @@
 ## Edición de entregables
 - Al actualizar un documento existente, tocar solo lo necesario, no vuelvas a escribir todo a menos que tenga un impacto en otras secciones que amerite el cambio.
 - No reescribir ni modificar secciones que ya estaban bien.
+- No uses guiones largos (—) bajo ninguna circunstancia.
